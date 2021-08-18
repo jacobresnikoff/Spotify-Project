@@ -1,4 +1,4 @@
-# Spotify-Project
+# Analyzing Song Popularity with Song Features
 Within this repository is an Exploratory Data Analysis and Machine Learning project. The main sections are complete, and I am currently revising the finer details of the report.
 
 ## Repository Structure
