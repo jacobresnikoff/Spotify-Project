@@ -1,5 +1,5 @@
 # Analyzing Song Popularity with Song Features
-Within this repository is an Exploratory Data Analysis and Machine Learning project. The main sections are complete, and I am currently revising the finer details of the report.
+Within this repository is an Exploratory Data Analysis and Machine Learning project on Spotify data. This project is by no means complete, but each section of the report is apt for viewing.
 
 ## Repository Structure
 - The [checkpoints](https://github.com/jacobresnikoff/spotify-project/tree/main/checkpoints) directory contains csv outputs from each section. Because of the size of the dataset, it occasionally takes a long time for my machine to run each section. For the sake of time efficiency, I have created csv output files for each of the numbered sections within the report. This makes editing code faster for me by eliminating the need to rerun the notebook repeatedly.
